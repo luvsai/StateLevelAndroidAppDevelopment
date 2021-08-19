@@ -1,0 +1,113 @@
+{"watches" : [
+
+  {
+    "id": 1 ,
+    "name": "Omega",
+    "price": "5000",
+    "dprice":"2500",
+    "msg" : "Good Brand",
+    "rating": 5
+
+  },{
+    "id": 2 ,
+    "name": "casio",
+    "price": "6000",
+    "dprice":"3000",
+    "msg" : "super watch and water resistant  ",
+    "rating": 5
+
+  }
+,{
+    "id": 3 ,
+    "name": "titan",
+    "price": "6000",
+    "dprice":"3000",
+    "msg" : "super watch and water resistant  ",
+    "rating": 5
+
+  }
+,{
+    "id": 4 ,
+    "name": "fasttrack",
+    "price": "6000",
+    "dprice":"3000",
+    "msg" : "super watch and water resistant  ",
+    "rating": 5
+
+  }
+
+
+]
+,
+  "shirts" : [
+
+    {
+      "id": 1 ,
+      "name": "shirt brand 1",
+      "price": "5000",
+      "dprice":"2500",
+      "msg" : "Good Brand",
+      "rating": 5
+
+    },
+    {
+      "id": 2 ,
+      "name": "shirt brand 2",
+      "price": "5000",
+      "dprice":"2500",
+      "msg" : "Good Brand",
+      "rating": 5
+
+    }
+
+
+  ]
+,
+  "trousers" : [
+
+    {
+      "id": 1 ,
+      "name": "cathy",
+      "price": "5000",
+      "dprice":"2500",
+      "msg" : "Good Brand",
+      "rating": 5
+
+    },
+    {
+      "id": 1 ,
+      "name": "lenin",
+      "price": "5000",
+      "dprice":"2500",
+      "msg" : "Good Brand",
+      "rating": 5
+
+    }
+
+
+  ]
+,
+  "shoes" : [
+
+    {
+      "id": 1 ,
+      "name": "puma",
+      "price": "5000",
+      "dprice":"2500",
+      "msg" : "Good Brand",
+      "rating": 5
+
+    },
+    {
+      "id": 1 ,
+      "name": "Nike ",
+      "price": "5000",
+      "dprice":"2500",
+      "msg" : "Good Brand",
+      "rating": 5
+
+    }
+
+
+  ]
+}
